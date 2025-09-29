@@ -85,7 +85,7 @@ teesy-imprime-ecommerce/
 - Cloudinary for image hosting
 - react-konva for canvas-based T-shirt customization
 - Inspiration from multiple e-commerce learning projects
-- Special thanks to the **Zaalima project** for inspiration and foundational ideas.  
+- Special thanks to the **Zaalima Development** for inspiration and foundational ideas.  
 - Thanks to the open-source community for tools and libraries that made this project possible.  
 - Shoutout to contributors and Team mates
 
