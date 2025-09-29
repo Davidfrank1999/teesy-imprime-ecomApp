@@ -60,10 +60,10 @@ teesy-imprime-ecommerce/
 </p>
 
 <p align="center">
-  <img src="attachments/Teesy-Login.png" width="300"/>
+  <img src="attachments/Teesy-UserAccountPage.png" width="300"/>
 </p>
 <p align="center">
-  <img src="attachments/Teesy-UserAccountPage.png" width="300"/>
+  <img src="attachments/Teesy-Login.png" width="300"/>
   <img src="attachments/Teesy-CustomDesign.png" width="300"/>
 </p>
 
