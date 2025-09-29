@@ -53,50 +53,24 @@ teesy-imprime-ecommerce/
 ### Product Page
 ![Product Page](attachments/Teesy-ProductsPage.png)
 
+<p align="center">
+  <img src="attachments/Teesy-CartPage.png" width="300"/>
+  <img src="attachments/Teesy-WishListPage.png" width="300"/>
+  <img src="attachments/Teesy-AdminDashBoard.png" width="300"/>
+</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<p align="center">
+  <img src="attachments/Teesy-UserAccountPage.png" width="300"/>
+  <img src="attachments/Teesy-Login.png" width="300"/>
+  <img src="attachments/Teesy-CustomDesign.png" width="300"/>
+</p>
 
-  <div style="flex: 1 1 300px; text-align: center;">
-    <img src="attachments/Teesy-CartPage.png" alt="Shopping Cart" width="300" />
-    <p>Shopping Cart</p>
-  </div>
+### Mobile
 
-  <div style="flex: 1 1 300px; text-align: center;">
-    <img src="attachments/Teesy-CustomDesign.png" alt="T-shirt Customization" width="300" />
-    <p>T-shirt Customization</p>
-  </div>
-
-  <div style="flex: 1 1 300px; text-align: center;">
-    <img src="attachments/Teesy-UserAccountPage.png" alt="User Dashboard" width="300" />
-    <p>User Dashboard</p>
-  </div>
-
-  <div style="flex: 1 1 300px; text-align: center;">
-    <img src="attachments/Teesy-AdminDashBoard.png" alt="Admin Dashboard" width="300" />
-    <p>Admin Dashboard</p>
-  </div>
-
-  <div style="flex: 1 1 300px; text-align: center;">
-    <img src="attachments/Teesy-Login.png" alt="Admin Dashboard" width="300" />
-    <p>Login Page</p>
-  </div>
-
-  <div style="flex: 1 1 300px; text-align: center;">
-    <img src="attachments/Teesy-WishListPage.png" alt="Admin Dashboard" width="300" />
-    <p>WishList</p>
-  </div>
-
-  <div style="flex: 1 1 150px; text-align: center;">
-    <img src="attachments\Teesy-Home_Mob.png" alt="Mobile Login" width="150" />
-    <p>Mobile-Home</p>
-  </div>
-
-  <div style="flex: 1 1 150px; text-align: center;">
-    <img src="attachments\Teesy-Products_Mob.png" alt="Mobile Home" width="150" />
-    <p>Mobilw-Products</p>
-  </div>
-
-</div>
+<p align="center">
+  <img src="attachments/Teesy-Home_Mob.png" width="150"/>
+  <img src="attachments/Teesy-Products_Mob.png" width="150"/>
+</p>
 
 
 
