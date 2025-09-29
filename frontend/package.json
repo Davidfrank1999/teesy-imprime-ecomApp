@@ -1,7 +1,7 @@
 {
-  "name": "frontend",
+  "name": "teesy-imprime-frontend",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "contributors": [
     {
@@ -11,9 +11,32 @@
     {
       "name": "Mohammed Aneez",
       "email": "mohammedaneez37@gmail.com"
+    },
+    {
+      "name": "Pawan",
+      "email": "pawanhimself@gmail.com"
     }
   ],
   "description": "Dynamic Web App for Clothes Printing Business",
+  "keywords": [
+                "ecommerce",
+                "react",
+                "express",
+                "nodejs",
+                "mongodb",
+                "fullstack",
+                "webapp",
+                "tshirt-customization",
+                "shopping-cart",
+                "online-store",
+                "cloudinary",
+                "admin-dashboard",
+                "frontend",
+                "backend",
+                "teesy-imprime",
+                "custom-clothing",
+                "react-konva"
+              ],
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",

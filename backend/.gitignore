@@ -23,6 +23,7 @@ pids/
 
 # Environment variables
 .env*
+!.env.example
 
 # Build artifacts (if applicable)
 dist/
